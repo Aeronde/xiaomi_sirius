@@ -1,4 +1,5 @@
 Just flash into the logo partition！
 
-
-fastboot flash system system.img
+1、Unzip and use
+2、Flash into the partition
+：fastboot flash system system.img
